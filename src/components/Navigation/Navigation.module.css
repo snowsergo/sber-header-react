@@ -1,0 +1,19 @@
+.Navigation {
+  display: flex;
+  flex-direction: row;
+}
+
+.additional {
+  position: relative;
+  text-align: center;
+  display: flex;
+}
+
+@media screen and (max-width: 510px) {
+  .Navigation {
+    display: flex;
+    flex-direction: row;
+    width: calc(100vw - 119px);
+    justify-content: space-between;
+  }
+}

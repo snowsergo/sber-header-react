@@ -1,0 +1,40 @@
+.Header {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+  background-color: #4267b2;
+  height: 56px;
+  font-family: Open Sans;
+}
+
+.titleSection {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  border-right: 1px solid rgba(255, 255, 255, 0.1);
+  align-items: center;
+  padding-left: 19px;
+  padding-right: 19px;
+}
+
+.logo {
+  width: 24px;
+  height: 24px;
+}
+
+.title {
+  margin: 0;
+  padding: 0;
+  margin-left: 7px;
+  font-family: Open Sans;
+  font-weight: 600;
+  font-size: 23px;
+}
+
+@media screen and (max-width: 1015px) {
+  .title {
+    display: none;
+  }
+}

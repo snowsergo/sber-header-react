@@ -1,0 +1,26 @@
+.menuButton {
+  background: transparent;
+  width: 56px;
+  margin-left: auto;
+  border: none;
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  outline: 0;
+  display: none;
+  cursor: pointer;
+  align-self: center;
+  height: 40px;
+}
+
+.menuButton:hover {
+  background-color: #3c5fa5;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}
+@media screen and (max-width: 1223px) {
+  .menuButton {
+    display: block;
+  }
+}
