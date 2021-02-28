@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/sber-header-react/static/css/main.9f9960c1.chunk.css",
+    "main.js": "/sber-header-react/static/js/main.139c4b85.chunk.js",
+    "main.js.map": "/sber-header-react/static/js/main.139c4b85.chunk.js.map",
+    "runtime-main.js": "/sber-header-react/static/js/runtime-main.bb5ba8b3.js",
+    "runtime-main.js.map": "/sber-header-react/static/js/runtime-main.bb5ba8b3.js.map",
+    "static/js/2.5fd3fe37.chunk.js": "/sber-header-react/static/js/2.5fd3fe37.chunk.js",
+    "static/js/2.5fd3fe37.chunk.js.map": "/sber-header-react/static/js/2.5fd3fe37.chunk.js.map",
+    "static/js/3.b9aa847d.chunk.js": "/sber-header-react/static/js/3.b9aa847d.chunk.js",
+    "static/js/3.b9aa847d.chunk.js.map": "/sber-header-react/static/js/3.b9aa847d.chunk.js.map",
+    "index.html": "/sber-header-react/index.html",
+    "static/css/main.9f9960c1.chunk.css.map": "/sber-header-react/static/css/main.9f9960c1.chunk.css.map",
+    "static/js/2.5fd3fe37.chunk.js.LICENSE.txt": "/sber-header-react/static/js/2.5fd3fe37.chunk.js.LICENSE.txt",
+    "static/media/bell+.svg": "/sber-header-react/static/media/bell+.adfb2ea0.svg",
+    "static/media/bell.svg": "/sber-header-react/static/media/bell.1eb1a4b7.svg",
+    "static/media/calendar.svg": "/sber-header-react/static/media/calendar.4feb02c7.svg",
+    "static/media/checks.svg": "/sber-header-react/static/media/checks.765f9e2e.svg",
+    "static/media/coins.svg": "/sber-header-react/static/media/coins.cba937fe.svg",
+    "static/media/education.svg": "/sber-header-react/static/media/education.693ad8b3.svg",
+    "static/media/feedback.svg": "/sber-header-react/static/media/feedback.adbe3b40.svg",
+    "static/media/game.svg": "/sber-header-react/static/media/game.d11fcbb4.svg",
+    "static/media/hamburger+.svg": "/sber-header-react/static/media/hamburger+.4ac6daf2.svg",
+    "static/media/link.svg": "/sber-header-react/static/media/link.69f26e46.svg",
+    "static/media/logo.svg": "/sber-header-react/static/media/logo.48ea1a6d.svg",
+    "static/media/logout.svg": "/sber-header-react/static/media/logout.c1639438.svg",
+    "static/media/more.svg": "/sber-header-react/static/media/more.38d176e4.svg",
+    "static/media/person+.svg": "/sber-header-react/static/media/person+.72148f21.svg",
+    "static/media/person.svg": "/sber-header-react/static/media/person.bead66a4.svg",
+    "static/media/replacement.svg": "/sber-header-react/static/media/replacement.a29d7caf.svg",
+    "static/media/staff.svg": "/sber-header-react/static/media/staff.f7f12c2c.svg",
+    "static/media/task.svg": "/sber-header-react/static/media/task.e555d0d9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb5ba8b3.js",
+    "static/js/2.5fd3fe37.chunk.js",
+    "static/css/main.9f9960c1.chunk.css",
+    "static/js/main.139c4b85.chunk.js"
+  ]
+}
